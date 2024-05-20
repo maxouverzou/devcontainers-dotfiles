@@ -1,0 +1,9 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+add_newline = false
+
+[status]
+disabled = false
+
+[username]
+disabled = true
